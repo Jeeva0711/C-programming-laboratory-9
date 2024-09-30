@@ -1,0 +1,7 @@
+#include <studio.h>
+int main()
+{
+float f = 20;
+printf("Fahrenheit Degree Celsius");
+return 0;
+}
